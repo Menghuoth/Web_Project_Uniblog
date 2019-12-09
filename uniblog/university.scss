@@ -1,0 +1,76 @@
+
+//start header
+nav {
+  background: #343a40;
+  width: 100%;
+  height: 75px;
+}
+
+.nav-link {
+  padding: 0 250px;
+}
+
+// end header
+// start university image
+.uni-img {
+  margin: 0;
+}
+
+.uni-img {
+  img {
+    width: 100%;
+    height: 700px;
+  }
+  h1 {
+    margin: 80px 0 50px 100px;
+  }
+  // h1 {
+  //   border: 2px solid whitesmoke;
+  //   width: 400px;
+  //   height: 120px;
+  //   padding-top: 10px;
+  //   position: absolute;
+  //   color: white;
+  //   top: 250px;
+  //   left: 700px;
+  //   text-align: center;
+  //   transform: translate(-50%, -50%);
+  // }
+}
+
+// end university image
+
+// Start all information of university
+.flat-bg {
+  border-radius: 10px;
+  margin-left: 100px;
+  background: white;
+  width: 800px;
+  height: 1000px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
+}
+// .information {
+
+// }
+// End all information of university
+
+// Start comment box
+.comment {
+  margin: 100px 0 0 100px;
+  width: 800px;
+  height: 200px;
+
+  button {
+    float: right;
+  }
+}
+// End comment box
+
+// footer start
+footer {
+  background: #343a40;
+  color: white;
+  margin-top: 100px;
+}
+
+// footer end

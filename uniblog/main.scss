@@ -1,0 +1,91 @@
+$bg : #343a40;
+
+//  Start header navbar
+nav {
+    background: $bg;
+    width: 100%;
+    height: 75px;
+}
+
+.scrolled {
+    background: #000;
+}   
+
+.nav-link {
+    padding: 0 250px;
+}
+
+// End header navbar
+
+// Start slideshow
+.carousel-inner {
+    margin: 0px;
+    padding: 0px;
+    height: 700px;
+}
+
+// End sildshow
+
+// University blog start
+.university {
+    img {
+        border-radius: 5px;
+        margin-top: 50px;
+        margin-left: 50px;
+        padding: 0px;
+        width: 280px;
+        height: 200px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.10);
+    }
+}
+
+.university {
+    margin-top: 50px;
+}
+
+.img-blog {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+
+    h6 {
+        margin-top: 20px;
+        padding-left: 75px;
+    }
+}
+
+.hover:hover {
+    img {
+        box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.15);
+    }
+}
+
+.img-blog-1 {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+
+    h6 {
+        margin-top: 20px;
+        padding-left: 75px;
+    }
+}
+.img-blog-2 {
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+
+    h6 {
+        margin-top: 20px;
+        padding-left: 75px;
+    }
+}
+// University blog end
+
+// footer start
+footer {
+    background: #343a40;
+    color: white;
+    margin-top: 100px;
+}
+// footer end
